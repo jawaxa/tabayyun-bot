@@ -1,0 +1,30 @@
+{
+  "update_id": 444222522,
+  "message": {
+    "channel_chat_created": false,
+    "supergroup_chat_created": false,
+    "caption_entities": [],
+    "text": "/start",
+    "entities": [],
+    "new_chat_photo": [],
+    "chat": {
+      "type": "private",
+      "username": "azzambz",
+      "id": 187317929,
+      "first_name": "Zamzam Badruzaman"
+    },
+    "photo": [],
+    "delete_chat_photo": false,
+    "new_chat_members": [],
+    "date": 1625733367,
+    "message_id": 470,
+    "group_chat_created": false,
+    "from": {
+      "id": 187317929,
+      "username": "azzambz",
+      "first_name": "Zamzam Badruzaman",
+      "is_bot": false,
+      "language_code": "en"
+    }
+  }
+}

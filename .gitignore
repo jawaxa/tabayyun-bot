@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+venv/
+nohup.out
+crawling.log
+*/__pycache__/
+*.pyc
+dist
+tabayyun_bot.egg-info/
+*.pem
+*.pkl
+setenv.sh
